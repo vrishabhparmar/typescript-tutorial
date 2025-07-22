@@ -6,6 +6,8 @@ Typescript is a programming language developed to overcome the shortcomming of J
 
         Typescipt is a Javascript with type-checking
 
+Here is the below example we are initializing the variables using dynamic types and static type 
+
 ```Javascipt
 
 let num = 10; // Dynamic
